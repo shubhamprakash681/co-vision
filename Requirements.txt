@@ -1,0 +1,23 @@
+pip install opencv-python
+pip install SpeechRecognition
+pip install pywhatkit
+pip install pyttsx3
+sudo apt install espeak
+sudo apt install flac
+sudo apt-get install portaudio19-dev
+sudo apt install libtesseract-dev
+pip install PyAudio
+pip install pytesseract
+pip install tesseract-ocr
+sudo apt install tesseract-ocr-all
+pip install opencv-contrib-python
+
+pip install imutils
+pip install face_recognition
+
+
+
+*****For NEO6M GPS*****
+Enable i2c & then spi from raspi-config
+then follow instructions on:
+https://sparklers-the-makers.github.io/blog/robotics/use-neo-6m-module-with-raspberry-pi/
